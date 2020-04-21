@@ -1,0 +1,9 @@
+C:\Users\xiongyang\Desktop\LoraServer1.01\M2Mqtt.Net.Core\bin\Release\netstandard2.0\M2Mqtt.Net.Core.deps.json
+C:\Users\xiongyang\Desktop\LoraServer1.01\M2Mqtt.Net.Core\bin\Release\netstandard2.0\M2Mqtt.Net.Core.dll
+C:\Users\xiongyang\Desktop\LoraServer1.01\M2Mqtt.Net.Core\bin\Release\netstandard2.0\M2Mqtt.Net.Core.pdb
+C:\Users\xiongyang\Desktop\LoraServer1.01\M2Mqtt.Net.Core\obj\Release\netstandard2.0\M2Mqtt.Net.Core.csprojResolveAssemblyReference.cache
+C:\Users\xiongyang\Desktop\LoraServer1.01\M2Mqtt.Net.Core\obj\Release\netstandard2.0\M2Mqtt.Net.Core.csproj.CoreCompileInputs.cache
+C:\Users\xiongyang\Desktop\LoraServer1.01\M2Mqtt.Net.Core\obj\Release\netstandard2.0\M2Mqtt.Net.Core.AssemblyInfoInputs.cache
+C:\Users\xiongyang\Desktop\LoraServer1.01\M2Mqtt.Net.Core\obj\Release\netstandard2.0\M2Mqtt.Net.Core.AssemblyInfo.cs
+C:\Users\xiongyang\Desktop\LoraServer1.01\M2Mqtt.Net.Core\obj\Release\netstandard2.0\M2Mqtt.Net.Core.dll
+C:\Users\xiongyang\Desktop\LoraServer1.01\M2Mqtt.Net.Core\obj\Release\netstandard2.0\M2Mqtt.Net.Core.pdb

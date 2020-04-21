@@ -1,0 +1,13 @@
+E:\代码\MQTTRemoteDesktop\MQTTRemoteDesktop\RemoteClient\bin\Debug\RemoteClient.dll
+E:\代码\MQTTRemoteDesktop\MQTTRemoteDesktop\RemoteClient\bin\Debug\RemoteClient.pdb
+E:\代码\MQTTRemoteDesktop\MQTTRemoteDesktop\RemoteClient\bin\Debug\M2Mqtt.Net.Core.dll
+E:\代码\MQTTRemoteDesktop\MQTTRemoteDesktop\RemoteClient\bin\Debug\RemoteModel.dll
+E:\代码\MQTTRemoteDesktop\MQTTRemoteDesktop\RemoteClient\bin\Debug\Newtonsoft.Json.dll
+E:\代码\MQTTRemoteDesktop\MQTTRemoteDesktop\RemoteClient\bin\Debug\M2Mqtt.Net.Core.pdb
+E:\代码\MQTTRemoteDesktop\MQTTRemoteDesktop\RemoteClient\bin\Debug\RemoteModel.pdb
+E:\代码\MQTTRemoteDesktop\MQTTRemoteDesktop\RemoteClient\bin\Debug\Newtonsoft.Json.xml
+E:\代码\MQTTRemoteDesktop\MQTTRemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csprojAssemblyReference.cache
+E:\代码\MQTTRemoteDesktop\MQTTRemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.CoreCompileInputs.cache
+E:\代码\MQTTRemoteDesktop\MQTTRemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.CopyComplete
+E:\代码\MQTTRemoteDesktop\MQTTRemoteDesktop\RemoteClient\obj\Debug\RemoteClient.dll
+E:\代码\MQTTRemoteDesktop\MQTTRemoteDesktop\RemoteClient\obj\Debug\RemoteClient.pdb

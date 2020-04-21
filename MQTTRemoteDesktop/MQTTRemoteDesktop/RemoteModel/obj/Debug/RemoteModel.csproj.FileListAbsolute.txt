@@ -1,0 +1,11 @@
+E:\代码\MQTTRemoteDesktop\MQTTRemoteDesktop\RemoteModel\bin\Debug\RemoteModel.dll
+E:\代码\MQTTRemoteDesktop\MQTTRemoteDesktop\RemoteModel\bin\Debug\RemoteModel.pdb
+E:\代码\MQTTRemoteDesktop\MQTTRemoteDesktop\RemoteModel\bin\Debug\M2Mqtt.Net.Core.dll
+E:\代码\MQTTRemoteDesktop\MQTTRemoteDesktop\RemoteModel\bin\Debug\Newtonsoft.Json.dll
+E:\代码\MQTTRemoteDesktop\MQTTRemoteDesktop\RemoteModel\bin\Debug\M2Mqtt.Net.Core.pdb
+E:\代码\MQTTRemoteDesktop\MQTTRemoteDesktop\RemoteModel\bin\Debug\Newtonsoft.Json.xml
+E:\代码\MQTTRemoteDesktop\MQTTRemoteDesktop\RemoteModel\obj\Debug\RemoteModel.csprojAssemblyReference.cache
+E:\代码\MQTTRemoteDesktop\MQTTRemoteDesktop\RemoteModel\obj\Debug\RemoteModel.csproj.CoreCompileInputs.cache
+E:\代码\MQTTRemoteDesktop\MQTTRemoteDesktop\RemoteModel\obj\Debug\RemoteModel.csproj.CopyComplete
+E:\代码\MQTTRemoteDesktop\MQTTRemoteDesktop\RemoteModel\obj\Debug\RemoteModel.dll
+E:\代码\MQTTRemoteDesktop\MQTTRemoteDesktop\RemoteModel\obj\Debug\RemoteModel.pdb
